@@ -1,12 +1,9 @@
 ![ESP32](https://img.shields.io/badge/MCU-ESP32-blue)
-
 ![BMS](https://img.shields.io/badge/System-BMS-purple)
-
 ![Battery](https://img.shields.io/badge/Battery-18650-pink)
-
 ![Status](https://img.shields.io/badge/Status-In%20Development-darkpink)
-
 ![MATLAB](https://img.shields.io/badge/Software-MATLAB-darkblue)
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue?logo=espressif)
 # 🔋 SecondLife-BMS
 ### Sistema de Gestión, Control y Monitoreo para Baterías de Litio de Segunda Vida
 
