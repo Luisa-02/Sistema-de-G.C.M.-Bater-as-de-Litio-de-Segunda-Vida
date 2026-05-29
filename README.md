@@ -98,12 +98,12 @@ El sistema implementa sensado analógico mediante amplificadores operacionales, 
 ```bash
 SecondLife-BMS/
 │
-├── hardware/
-├── firmware/
-├── docs/
-├── simulations/
+├── Informe/
+├── Simulación/
 ├── pcb/
-├── app/
+├── Plataforma/
+├── Presentación/
+├── Costos/
 └── README.md
 ```
 
