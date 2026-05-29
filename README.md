@@ -1,5 +1,3 @@
-# Sistema-de-G.C.M.-Bater-as-de-Litio-de-Segunda-Vida
-Sistema inteligente de gestión y monitoreo para baterías de litio 18650 reutilizadas.
 # 🔋 SecondLife-BMS
 ### Sistema de Gestión, Control y Monitoreo para Baterías de Litio de Segunda Vida
 
@@ -9,7 +7,7 @@ Sistema inteligente de gestión y monitoreo para baterías de litio 18650 reutil
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 SecondLife-BMS es un sistema inteligente de gestión de baterías (BMS) diseñado para monitorear, proteger y controlar bancos de baterías de litio 18650 reutilizadas en configuración 4S2P.
 
@@ -17,7 +15,7 @@ El sistema implementa sensado analógico mediante amplificadores operacionales, 
 
 ---
 
-## 🎯 Objetivos del Proyecto
+##  Objetivos del Proyecto
 
 - Monitorear voltaje individual de cada celda
 - Detectar sobretemperatura
@@ -28,21 +26,21 @@ El sistema implementa sensado analógico mediante amplificadores operacionales, 
 
 ---
 
-## ⚙️ Características Principales
+##  Características Principales
 
-✅ Monitoreo de voltaje por celda  
-✅ Sensado de temperatura  
-✅ Protección contra sobrevoltaje  
-✅ Protección contra subtensión  
-✅ Protección térmica  
-✅ Balanceo de celdas  
-✅ Pantalla OLED integrada  
-✅ Interfaz de visualización de datos  
-✅ Registro histórico de variables  
+- Monitoreo de voltaje por celda  
+- Sensado de temperatura  
+- Protección contra sobrevoltaje  
+- Protección contra subtensión  
+- Protección térmica  
+- Balanceo de celdas  
+- Pantalla OLED integrada  
+- Interfaz de visualización de datos  
+- Registro histórico de variables  
 
 ---
 
-## 🧠 Arquitectura del Sistema
+##  Arquitectura del Sistema
 
 <p align="center">
   <img src="docs/bms-diagram.png" width="900">
@@ -66,10 +64,10 @@ El sistema implementa sensado analógico mediante amplificadores operacionales, 
 ## 💻 Software Utilizado
 
 - Arduino IDE
-- MATLAB
-- EasyEDA / Proteus
+- Proteus
 - GitHub
-- Plataforma IoT
+- Plataforma web
+- Firebase
 
 ---
 
@@ -113,11 +111,11 @@ SecondLife-BMS/
 
 ## 📱 Interfaz de Visualización
 
-El sistema cuenta con visualización local mediante pantalla OLED y futura integración con plataformas IoT para monitoreo remoto.
+El sistema cuenta con visualización local en pantalla OLED y mediante una plataforma web creada con JavaScript, utilizando Firebase.
 
 ---
 
-## 🚀 Futuras Mejoras
+##  Futuras Mejoras
 
 - Estimación de SOH
 - Balanceo activo
@@ -127,12 +125,13 @@ El sistema cuenta con visualización local mediante pantalla OLED y futura integ
 
 ---
 
-## 👨‍💻 Integrantes
+##  Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
-
+- Stiven Martínez
+- Luisa Peñaranda
+- Luis Mercado
+- Hashly Palencia
+- María Ángel López
 ---
 
 ## 📸 Prototipo
@@ -143,7 +142,7 @@ El sistema cuenta con visualización local mediante pantalla OLED y futura integ
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Proyecto académico - Electrónica II
 Universidad del Magdalena
