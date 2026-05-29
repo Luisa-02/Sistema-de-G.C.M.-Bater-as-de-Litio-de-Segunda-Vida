@@ -1,3 +1,6 @@
+![Arduino](https://img.shields.io/badge/Arduino-ESP32-blue)
+![Status](https://img.shields.io/badge/Status-In%20Development-green)
+![License](https://img.shields.io/badge/License-Academic-orange)
 # 🔋 SecondLife-BMS
 ### Sistema de Gestión, Control y Monitoreo para Baterías de Litio de Segunda Vida
 
