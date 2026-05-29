@@ -115,16 +115,6 @@ El sistema cuenta con visualización local en pantalla OLED y mediante una plata
 
 ---
 
-##  Futuras Mejoras
-
-- Estimación de SOH
-- Balanceo activo
-- Dashboard web
-- Aplicación móvil
-- Machine Learning para degradación
-
----
-
 ##  Integrantes
 
 - Stiven Martínez
