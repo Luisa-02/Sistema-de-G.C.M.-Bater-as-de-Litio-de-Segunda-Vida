@@ -1,11 +1,12 @@
-![ESP32](https://img.shields.io/badge/MCU-ESP32-blue)
-![BMS](https://img.shields.io/badge/System-BMS-purple)
-![Battery](https://img.shields.io/badge/Battery-18650-pink)
-![Status](https://img.shields.io/badge/Status-In%20Development-darkpink)
-![Firebase](https://img.shields.io/badge/Software-MATLAB-darkblue)
-![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue?logo=espressif)
-![Proteus](https://img.shields.io/badge/Simulation-Proteus-1E90FF)
 # 🔋 SecondLife-BMS
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-00F5FF?style=for-the-badge&logo=espressif&logoColor=black)
+![BMS](https://img.shields.io/badge/System-BMS-8B5CF6?style=for-the-badge&logo=battery&logoColor=white)
+![Battery](https://img.shields.io/badge/Battery-18650-FF0080?style=for-the-badge&logo=tesla&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-FF3131?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Software-MATLAB-0066FF?style=for-the-badge&logo=mathworks&logoColor=white)
+![Proteus](https://img.shields.io/badge/Simulation-Proteus-7F00FF?style=for-the-badge&logo=circuitverse&logoColor=white)
+
+
 ### Sistema de Gestión, Control y Monitoreo para Baterías de Litio de Segunda Vida
 
 <p align="center">
