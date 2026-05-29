@@ -1,9 +1,9 @@
 # 🔋 SecondLife-BMS
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-00F5FF?style=for-the-badge&logo=espressif&logoColor=black)
-![BMS](https://img.shields.io/badge/System-BMS-8B5CF6?style=for-the-badge&logo=battery&logoColor=white)
+![BMS](https://img.shields.io/badge/System-BMS-8B5CF6?style=for-the-badge&logo=battery&logoColor=black)
 ![Battery](https://img.shields.io/badge/Battery-18650-FF0080?style=for-the-badge&logo=tesla&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-FF3131?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Software-MATLAB-0066FF?style=for-the-badge&logo=mathworks&logoColor=white)
+![Firebase](https://img.shields.io/badge/Software-Firebase-0066FF?style=for-the-badge&logo=mathworks&logoColor=blcak)
 ![Proteus](https://img.shields.io/badge/Simulation-Proteus-7F00FF?style=for-the-badge&logo=circuitverse&logoColor=white)
 
 
